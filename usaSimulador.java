@@ -116,7 +116,7 @@ public class usaSimulador {
                     System.out.println("Opção inválida!");
                     break;
             }
-        } while (opcao != 13);
+        } while (opcao != 14);
     
         scan.close();
     }
